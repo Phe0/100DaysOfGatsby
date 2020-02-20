@@ -26,6 +26,11 @@
     max-width: 120px;
     margin-left: 8px;
     margin-bottom: 0;
+    transition: all .2s ease-in-out;
+}
+
+.iconImg:hover {
+    transform: rotate(30deg);
 }
 
 .title {
