@@ -54,3 +54,10 @@ p {
     margin-bottom: 0;
     color: #585858;
 }
+
+code {
+    background-color: #505050;
+    color: #dfdfdf;
+    border-radius: 2px;
+    padding: 1px 4px;
+}
