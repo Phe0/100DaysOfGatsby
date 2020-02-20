@@ -22,7 +22,7 @@
 }
 
 .iconImg {
-    width: 25%;
+    width: 15%;
     max-width: 120px;
     margin-left: 8px;
     margin-bottom: 0;
@@ -36,7 +36,6 @@
 .title {
     margin: 0;
     color: #563885;
-    font-size: 40px;
     border-bottom: 0;
     text-decoration: none;
     font-weight: 900;

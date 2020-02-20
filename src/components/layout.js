@@ -22,7 +22,7 @@ export default ({ children }) => {
         <Link to={`/`} style={{ textDecoration: "none"}}>
           <div className={style.linkSection}>
             <div className={style.link}>
-              <h1 className={style.title}>{data.site.siteMetadata.title}</h1>
+              <h3 className={style.title}>{data.site.siteMetadata.title}</h3>
               <img className={style.iconImg} src={gatsbyIcon} alt="Gatsby Icon" />
             </div>
           </div>
