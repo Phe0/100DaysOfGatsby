@@ -1,0 +1,13 @@
+.indexPage {
+    padding-top: 20px;
+    width: 100%;
+}
+
+.postsArea {
+    margin-top: 25px;
+    margin: 25px -10px 0 -10px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, auto));
+    align-items: center;
+    justify-content: space-between;
+}

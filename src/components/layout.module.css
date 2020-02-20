@@ -1,0 +1,40 @@
+.layout {
+    margin: auto;
+    width: 60vw;
+    min-width: 300px;
+}
+
+.linkArea {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    border-bottom: 4px solid #563885;
+}
+
+.linkSection {
+    display: inline-block;
+}
+
+.link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.iconImg {
+    width: 25%;
+    max-width: 120px;
+    margin-left: 8px;
+    margin-bottom: 0;
+}
+
+.title {
+    margin: 0;
+    color: #563885;
+    font-size: 40px;
+    border-bottom: 0;
+    text-decoration: none;
+    font-weight: 900;
+    padding-bottom: 0;
+    display: inline;
+}
