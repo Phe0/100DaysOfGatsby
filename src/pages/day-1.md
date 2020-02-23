@@ -3,6 +3,8 @@ title: Day 1
 date: 02/13/2020
 ---
 
+![First Day of Gatsby](../assets/images/Day1.png)
+
 ## Create a Gatsby Blog from Scratch
 
 So, today I decided to start #100DaysOfGatsby since I've been wanting to learn how to use Gatsby and GraphQL for some time.
