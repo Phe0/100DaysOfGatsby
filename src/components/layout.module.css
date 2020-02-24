@@ -42,3 +42,22 @@
     padding-bottom: 0;
     display: inline;
 }
+
+.bottom {
+    display: flex;
+    justify-content: flex-end;
+    border-top: 4px solid #563885;
+    position: fixed;
+    bottom: 0;
+    width: 60vw;
+    min-width: 300px;
+    background-color: #dfdfdf;
+}
+
+.links {
+    margin: 20px 0 20px 20px;
+}
+
+.content {
+    margin-bottom: 63px;
+}
