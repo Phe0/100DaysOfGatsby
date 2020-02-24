@@ -20,7 +20,6 @@ module.exports = {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 1080,
-              disableBgImageOnAlpha: false
             },
           },
         ],
@@ -36,6 +35,7 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
+        name: 'images',
         path: `${__dirname}/src/assets/images`,
       },
     },
