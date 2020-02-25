@@ -32,12 +32,13 @@ export default ({ children }) => {
           </div>
         </Link>
       </div>
-      <div className={style.content}>
-        {children}
-      </div>
+      <div className={style.content}>{children}</div>
       <div className={style.bottom}>
         <Link to={`/`} style={{ textDecoration: "none" }}>
           <h6 className={style.links}>HOME</h6>
+        </Link>
+        <Link to={`/newsletter`} style={{ textDecoration: "none" }}>
+          <h6 className={style.links}>NEWSLETTER</h6>
         </Link>
         <Link to={`/about`} style={{ textDecoration: "none" }}>
           <h6 className={style.links}>ABOUT ME</h6>

@@ -1,7 +1,6 @@
 ---
 title: Day 2
 date: 02/20/2020
-featuredImage: ../assets/images/Day1.png
 ---
 
 In this day I started by finishing up the tutorial left from the first day. There was a section called [Preparing a Site to Go Live](https://www.gatsbyjs.org/tutorial/part-eight/) that shows how to audit your web page with lighthouse, which I have never used(it's so useful). Aside from that it shows how to add a manifest file to gatsby, since it is required to the website to be a Progressive Web App. Then it shows how to add offline support for the same reasons, caching content so that it's visible even if you are offline. And for last it shows you how to add metadata on each page, to improve your SEO.
